@@ -1,0 +1,167 @@
+---
+title: "W07-Reflection Essay-Introduction to Positron"
+author: "Dia Kaewdee"
+date: "today"
+format: 
+  html: 
+    toc: true
+    toc-depth: 4
+    number-sections: true
+    code-link: true
+    embed-resources: true
+editor: visual
+execute: 
+  freeze: auto
+---
+
+# Reflection on W07 - Introduction to Positron
+
+This module introduced Positron and how it compares to RStudio. I followed along with the videos and explored the basic layout, project setup, Quarto, and AI features. The videos also explained how Positron is designed to work with tools like GitHub and GitHub Copilot, which makes it feel like a more complete environment for coding and writing reports.
+
+> **Overall, my first impression is that Positron feels more modern than RStudio while still being familiar enough that the transition isn't too difficult.**
+
+## Module Resources
+
+The materials I used for this assignment included:
+
+- Introduction to Positron video
+- Positron migration guide for RStudio users
+- Positron walkthrough videos
+- AI in Positron video
+- GitHub Copilot demonstration
+
+---
+
+# 1. Download and Install Positron
+
+## Prompt
+
+**Download and Install Positron. As you watch the videos in Step 1 and Step 3, follow the activities in the video and be familiar with Positron.**
+
+## Response
+
+I followed the videos to create a new Positron project and organized everything into one project folder. I also created a new Quarto document inside the project so that all of the files stay together. That seems like a small thing, but I can already tell it will make future assignments easier because everything is stored in one place instead of different folders.
+
+One thing I noticed while following along with the videos is that Positron looks cleaner than I expected. Since I've been using RStudio throughout the class, I was expecting a big learning curve. Instead, a lot of the layout felt familiar, so it wasn't difficult to find the Console, Files, Environment, or Quarto document.
+
+::: {.callout-note}
+### Screenshot
+
+![Figure 1. My Intro-Positron project open in Positron.](Images/positron-project.png.){width=80%}
+
+:::
+
+---
+
+# 2. What do you like about Positron compared with RStudio?
+
+## Prompt
+
+**Based on what you learned from Step 1 and Step 3, what do you like about Positron compared with RStudio?**
+
+## Response
+
+After watching the videos, I can see why Posit developed Positron instead of continuing to build only RStudio. RStudio works well, especially for R, but Positron feels like it's built for a wider range of projects.
+
+The biggest difference I noticed is the overall interface. It feels cleaner, more modern, and a little easier to customize. I also like that Positron isn't focused only on R. It supports R, Python, Quarto, GitHub, and AI tools all in one place, so it feels more flexible if I ever work with different programming languages.
+
+The migration guide also mentioned that many of the shortcuts and basic workflow stay familiar for RStudio users, which made the transition feel less intimidating. I think that's one reason I adjusted to it pretty quickly while following the videos.
+
+Overall, I still think RStudio is a great program, but Positron feels like a more updated version that is designed for where data science is headed.
+
+---
+
+# Comparison Table
+
+| Feature | Positron | RStudio |
+|:---|:---|:---|
+| Interface | Modern and clean | Familiar and traditional |
+| Languages | R, Python, Quarto and more | Mostly R |
+| AI Integration | Built into the workflow | Limited |
+| Flexibility | High | Moderate |
+
+---
+
+# 3. AI Inside Positron
+
+## Prompt
+
+**Describe the various ways you can use AI inside Positron. Some are free while others are not.**
+
+## Response
+
+The AI video showed several ways AI can be used inside Positron. Instead of only writing code, AI can explain errors, suggest fixes, answer questions, generate code, and even help improve documentation. I also liked that AI can explain why something works instead of only giving an answer.
+
+The videos mentioned that Positron can connect with different AI providers. Some options require a paid subscription or an API key, while others are free for students. GitHub Copilot is one of the most useful options because students can apply for GitHub Education and receive access without paying.
+
+I think the biggest advantage is saving time when I get stuck. Sometimes I know what I want my code to do, but I forget the exact syntax. AI could help me get moving again without spending a long time searching online.
+
+At the same time, I don't think AI should replace learning the material. It's helpful when it explains the code or helps troubleshoot problems, but I still want to understand what the code is actually doing before I use it.
+
+::: {.callout-tip}
+AI works best when it helps me learn rather than doing the work for me.
+:::
+
+---
+
+# 4. Which AI tools did you set up?
+
+## Prompt
+
+**Which AI tools have you installed or set up? Which AI tools did you find beneficial?**
+
+## Response
+
+For this assignment, I explored the AI tools that were demonstrated in the videos and looked into GitHub Copilot since my professor recommended it. I like that GitHub Copilot works directly inside the editor because it can suggest code while I'm working instead of making me switch between different websites.
+
+I think this would be especially helpful during future Quarto assignments because it can suggest code chunks, help organize formatting, and explain error messages if something isn't working.
+
+Even though I like the idea of AI assistance, I also think it's important not to rely on it too much. I still want to practice writing code myself because that's how I'll actually remember it.
+
+::: {.callout-note}
+### Screenshot
+
+![Figure 2. My Intro-Positron project open in Positron.](Images/GitHub.jpeg.){width=80%}
+:::
+
+---
+
+# 5. GitHub Copilot Reflection
+
+## Prompt
+
+**Apply for GitHub Education and play with GitHub Copilot. Do you find it helpful or distracting? Please elaborate.**
+
+## Response
+
+After learning more about GitHub Copilot, I can definitely see why my professor recommends it. It seems like it could save a lot of time by suggesting code while I'm working instead of having to search online every time I forget a function or command.
+
+What I like most is that it doesn't only generate code. It can also explain what the code is doing, which makes it more useful as a learning tool.
+
+I also think there's a downside. If I accepted every suggestion without reading it, I probably wouldn't learn as much. For me, I think GitHub Copilot would be most useful as a helper instead of something that does the assignment for me. As long as I'm still reviewing everything and making sure I understand it, I think it could be a really valuable tool.
+
+---
+
+# 6. GitHub Pages
+
+## Prompt
+
+**Publish this report to GitHub Pages and provide the URL.**
+
+## Response
+
+After rendering my Quarto document into HTML, I published the report using GitHub Pages.
+
+**GitHub Pages URL:**
+
+**Paste your URL here**
+
+---
+
+# Conclusion
+
+Overall, I enjoyed learning about Positron because it feels like a modern version of the tools I've already been using. Since the layout is similar to RStudio, it wasn't difficult to follow along with the videos, but I also liked seeing some of the newer features that Positron includes.
+
+The AI features were probably the most interesting part of the module. I can see myself using tools like GitHub Copilot to help troubleshoot code or remember syntax, especially as assignments become more challenging. At the same time, I think it's important to use AI responsibly and make sure I still understand what I'm submitting.
+
+I also liked learning how Quarto, GitHub, GitHub Pages, and Positron all work together. Seeing the complete workflow made it easier to understand how these tools can be used together for future projects.
